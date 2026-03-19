@@ -1,9 +1,0 @@
-<script>start("/Users/maria/Desktop/project /backend/__pycache__/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("app.cpython-312.pyc","app.cpython-312.pyc",0,1225,"1.2 kB",1773934327,"19.03.2026, 18:32:07");</script>
-<script>addRow("auth_api.cpython-312.pyc","auth_api.cpython-312.pyc",0,4137,"4.0 kB",1773937686,"19.03.2026, 19:28:06");</script>
-<script>addRow("config.cpython-312.pyc","config.cpython-312.pyc",0,5977,"5.8 kB",1773937686,"19.03.2026, 19:28:06");</script>
-<script>addRow("database.cpython-312.pyc","database.cpython-312.pyc",0,4580,"4.5 kB",1773937686,"19.03.2026, 19:28:06");</script>
-<script>addRow("game_api.cpython-312.pyc","game_api.cpython-312.pyc",0,10324,"10.1 kB",1773935009,"19.03.2026, 18:43:29");</script>
-<script>addRow("game_engine.cpython-312.pyc","game_engine.cpython-312.pyc",0,13867,"13.5 kB",1773935009,"19.03.2026, 18:43:29");</script>
-<script>addRow("rooms_api.cpython-312.pyc","rooms_api.cpython-312.pyc",0,8537,"8.3 kB",1773935009,"19.03.2026, 18:43:29");</script>
