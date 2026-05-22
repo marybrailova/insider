@@ -281,7 +281,7 @@
 
 и получить подсказку о будущем движении цены
 
-<img width="420" alt="IMAGE 2026-05-22 3:21:20 PM" src="https://github.com/user-attachments/assets/5ed67c96-eb22-41d3-8453-705451e3ae9e" />
+<img width="300" alt="IMAGE 2026-05-22 3:21:20 PM" src="https://github.com/user-attachments/assets/5ed67c96-eb22-41d3-8453-705451e3ae9e" />
 
 
 ## Таблица лидеров
@@ -302,7 +302,7 @@
 - баланс игрока
 - плюс стоимость всех акций по текущим ценам
 
-<img width="420" alt="IMAGE 2026-05-22 3:30:12 PM" src="https://github.com/user-attachments/assets/547e1c62-13b4-40f9-ad6a-e5d43019aaeb" />
+<img width="300" alt="IMAGE 2026-05-22 3:30:12 PM" src="https://github.com/user-attachments/assets/547e1c62-13b4-40f9-ad6a-e5d43019aaeb" />
 
 
 # Особенности реализации
