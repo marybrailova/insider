@@ -211,6 +211,8 @@
 
 Каждый день игрок:
 
+<img width="180" alt="IMAGE 2026-05-22 3:35:22 PM" src="https://github.com/user-attachments/assets/3c99f062-cfb1-487e-901b-796b1b3547b5" />
+
 - смотрит новости
 - анализирует рынок
 - покупает акции
@@ -228,6 +230,7 @@
 
 Если кто-то долго думает, день автоматически заканчивается по таймеру
 
+<img width="180" alt="IMAGE 2026-05-22 3:34:39 PM" src="https://github.com/user-attachments/assets/261f1274-d3fb-4c1b-a623-4d34a72584b2" />
 
 # Интерфейс игры
 
