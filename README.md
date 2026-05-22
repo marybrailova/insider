@@ -204,7 +204,7 @@
 
 Когда все игроки подключились, игра запускается автоматически
 
-<img width="420" alt="IMAGE 2026-05-22 3:11:34 PM" src="https://github.com/user-attachments/assets/3f766350-c14b-47a4-9f19-e71842af1cba" />
+<img width="300" alt="IMAGE 2026-05-22 3:11:34 PM" src="https://github.com/user-attachments/assets/3f766350-c14b-47a4-9f19-e71842af1cba" />
 
 
 # Как проходит игровой день
