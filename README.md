@@ -317,11 +317,11 @@
 - отследить смену лидеров
 - проанализировать влияние новостей, слухов и рыночных пузырей на результат игры
 
-<img width="500"  alt="IMAGE 2026-05-27 9:20:50 PM" src="https://github.com/user-attachments/assets/468991c8-b31a-45c9-b934-85cd587ed5f6" />
+<img width="600"  alt="IMAGE 2026-05-27 9:20:50 PM" src="https://github.com/user-attachments/assets/468991c8-b31a-45c9-b934-85cd587ed5f6" />
 
 Также после окончания игры отображается финальный рейтинг игроков по капиталу
 
-<img width="500" alt="IMAGE 2026-05-27 9:20:27 PM" src="https://github.com/user-attachments/assets/55fc0dd0-7424-4ee7-941b-a74570f39b7b" />
+<img width="600" alt="IMAGE 2026-05-27 9:20:27 PM" src="https://github.com/user-attachments/assets/55fc0dd0-7424-4ee7-941b-a74570f39b7b" />
 
 # Особенности реализации
 
