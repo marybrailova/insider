@@ -327,7 +327,7 @@
 
 Проект полностью работает в браузере
 
-https://insidergame.ru/welcome.html
+https://insidergame.ru/
 
 # Почему стоит попробовать
 
