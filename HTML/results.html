@@ -1,0 +1,47 @@
+<!-- объявляем тип документа html5 -->
+<!doctype html>
+<!-- основной язык страницы русский -->
+<html lang="ru">
+
+  <!-- head хранит служебную информацию страницы -->
+  <head>
+    <!-- кодировка нужна для русского текста -->
+    <meta charset="UTF-8" />
+    <!-- настройка адаптивности страницы -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- название вкладки браузера -->
+    <title>Итоги игры</title>
+    <!-- подключаем стили страницы результатов -->
+    <link rel="stylesheet" href="results.css" />
+    <!-- подключаем библиотеку для графика капитала -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- подключаем javascript с загрузкой итогов игры -->
+    <script src="results.js" defer></script>
+  </head>
+
+  <!-- body содержит видимую часть страницы -->
+  <body>
+    <!-- основной контейнер итогов игры -->
+    <main class="page">
+      <!-- главный заголовок страницы -->
+      <h1>Итоги игры</h1>
+
+      <!-- блок с графиком изменения капитала -->
+      <section class="chart-box">
+        <!-- chart.js рисует график внутри canvas -->
+        <canvas id="capitalChart" width="900" height="400"></canvas>
+      </section>
+
+      <!-- блок итогового рейтинга игроков -->
+      <section class="rating">
+        <h2>Рейтинг</h2>
+        <!-- results.js добавляет сюда строки игроков -->
+        <div id="rating"></div>
+      </section>
+
+      <!-- ссылка для возвращения в лобби -->
+      <a class="btn" href="lobby.html">в лобби</a>
+    </main>
+  </body>
+
+</html>

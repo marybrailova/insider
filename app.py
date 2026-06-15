@@ -1,8 +1,8 @@
 from flask import Flask, send_from_directory
-from auth_api import register_auth_routes
-from database import DB_PATH, init_db
-from game_api import register_game_routes
-from rooms_api import register_room_routes
+from API.auth_api import register_auth_routes
+from Database.database import DB_PATH, init_db
+from API.game_api import register_game_routes
+from API.rooms_api import register_room_routes
 
 
 # создаём Flask приложение
@@ -19,7 +19,7 @@ app.secret_key = "123"
 def index():
 
     # открываем welcome.html
-    return send_from_directory(".", "welcome.html")
+    return send_from_directory("HTML", "welcome.html")
 
 
 # маршрут для всех остальных файлов
@@ -27,7 +27,16 @@ def index():
 @app.route("/<path:path>")
 def static_files(path):
 
-    # отдаём файл из папки проекта
+    # отдаём файлы из соответствующих папок
+    if path.endswith(".html"):
+        return send_from_directory("HTML", path)
+
+    if path.endswith(".css"):
+        return send_from_directory("CSS", path)
+
+    if path.endswith(".js"):
+        return send_from_directory("JavaScript", path)
+
     return send_from_directory(".", path)
 
 
