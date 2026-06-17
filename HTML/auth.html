@@ -1,0 +1,86 @@
+<!doctype html>
+
+<html lang="ru">
+
+  <head>
+
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Инсайдер — Вход и регистрация</title>
+
+    <link rel="stylesheet" href="pages.css" />
+
+    <script src="auth-page.js" defer></script>
+
+  </head>
+
+  <body>
+
+    <h1 class="welcome-title">Инсайдер</h1>
+
+    <div class="page">
+
+      <header class="topbar">
+
+        <div class="top-left">
+
+          <span class="clock">🔐</span>
+        </div>
+
+        <div class="day">Аккаунт</div>
+
+        <div class="avatar">🔐</div>
+      </header>
+
+      <section class="news">
+
+        <h2>Вход</h2>
+
+        <div class="card" style="margin-bottom: 16px;">
+
+          <label>Имя</label>
+
+          <input id="loginName" placeholder="Имя" />
+
+          <label>Пароль</label>
+
+          <input id="loginPass" type="password" placeholder="Пароль" />
+
+          <button class="btn primary" id="loginBtn">войти</button>
+
+          <div id="loginMsg"></div>
+        </div>
+
+        <h2>Регистрация</h2>
+
+        <div class="card">
+
+          <label>Имя</label>
+
+          <input id="regName" placeholder="Имя" />
+
+          <label>Пароль</label>
+
+          <input id="regPass" type="password" placeholder="Пароль" />
+
+          <button class="btn primary" id="regBtn">зарегистрироваться</button>
+
+          <div id="regMsg"></div>
+        </div>
+      </section>
+
+      <section class="bottom">
+
+        <div class="controls">
+
+          <a class="btn" href="rules.html">назад</a>
+
+          <a class="btn primary" href="lobby.html">к лобби</a>
+        </div>
+      </section>
+    </div>
+
+  </body>
+</html>
